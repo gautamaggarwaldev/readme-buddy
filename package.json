@@ -19,5 +19,8 @@
   "homepage": "https://github.com/gautamaggarwaldev/readme-buddy#readme",
   "bin": {
     "readme-gn": "index.js"
+  },
+  "dependencies": {
+    "inquirer": "^12.3.3"
   }
 }
