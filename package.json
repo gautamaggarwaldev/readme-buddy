@@ -1,6 +1,6 @@
 {
   "name": "readme-buddy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple CLI tool that generates professional README.md files interactively for your projects. 🚀",
   "main": "index.js",
   "type": "module",
